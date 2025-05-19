@@ -1,4 +1,4 @@
-package com.example.waterreminder.ui.theme
+package com.example.mizu.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

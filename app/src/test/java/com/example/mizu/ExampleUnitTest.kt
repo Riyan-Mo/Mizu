@@ -1,4 +1,4 @@
-package com.example.waterreminder
+package com.example.mizu
 
 import org.junit.Test
 
